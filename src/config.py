@@ -74,7 +74,7 @@ class ProxyConfig:
         initial_urls = [
             ChannelConfig("https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
-            ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
+            ChannelConfig("https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIA--REDFREE8.txt#POORIA--REDFREE8"),
             ChannelConfig("https://t.me/s/redv2ray_channel"),
             ChannelConfig("https://t.me/s/redfree8")
         ]
