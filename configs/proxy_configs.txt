@@ -224,9 +224,9 @@ trojan://telegram-id-directvpn@18.134.103.43:22222?security=tls&sni=trojan.burge
 
 trojan://telegram-id-directvpn@18.159.177.132:22222?security=tls&sni=trojan.burgerip.co.uk&alpn=http/1.1&type=tcp#https://t.me/ShadowsocksM
 
-trojan://telegram-id-directvpn@18.175.109.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our
-
 trojan://telegram-id-directvpn@18.175.109.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#Our Channel : @DirectVPN🚀 @DirectVPN ✴️
+
+trojan://telegram-id-directvpn@18.194.196.199:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.burgerip.co.uk#@VIProxys
 
 ss://055177-9Tnzvv73dmnPvv70f77-9z71777-977-92b3vv73vv71_Ou-_ve-_vV4=@3.11.166.55:22222#https://t.me/ShadowsocksM
 
@@ -350,6 +350,8 @@ wireguard://CMgUnOEncWTPonKUGXU%2BPP1fn9jhpZwbGsp2wopd10E%3D@188.114.97.253:908?
 
 wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?address=172.16.0.2%2F32&reserved=200%2C94%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#Anon4
 
+wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?address=172.16.0.2%2F32&reserved=200%2C94%2C100&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&mtu=1280&keepalive=5&wnoise=quic&wnoisecount=15&wnoisedelay=1&wpayloadsize=5-10#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
+
 wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?wnoise=quic&address=172.16.0.2%2F32&reserved=200%2C94%2C100&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#%40ShadowProxy66%20%28warp%29%C2%B3
 
 wireguard://EOg5gRm1wqcWF5rVOnn6lA%2BJrL2dHFpZ1UOObrF%2FelU%3D@188.114.97.61:903?wnoise=quic&address=172.16.0.2%2F32&reserved=200%2C94%2C100&keepalive=5&wpayloadsize=5-10&publickey=bmXOC%2BF1FxEMF9dyiK2H5%2F1SUtzH0JuVo51h2wPfgyo%3D&wnoisedelay=1&wnoisecount=15&mtu=1280#⚜️Telegram:@IP_CF•••••••••••••••••••••••••••••••••••📢 Channel : @IP_CF_Config📢 Main Channel : @IP_CF•••••••••••••••••••••••••••••••••••
@@ -424,11 +426,11 @@ vmess://eyJhZGQiOiI0Ni4yNTAuMjUzLjIzMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJo
 
 vmess://eyJhZGQiOiI2OC4xNjguMzEuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlmOGIxNmE4LTM2OWQtNGI3OS1hZjgyLTIwMWMwODlkYWRkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjY5MjQiLCJwcyI6IkBtZWxpX3Byb3h5ediz2LHZiNix2KfbjOKAjNio24zYtNiq2LEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
+vmess://eyJhZGQiOiI2OC4xNjguMzEuMTg0IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjlmOGIxNmE4LTM2OWQtNGI3OS1hZjgyLTIwMWMwODlkYWRkMiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoiMjY5MjQiLCJwcyI6Ilx1MjY5Y1x1ZmUwZlRlbGVncmFtOkBJUF9DRiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+
 vmess://eyJhZGQiOiI5MS4xMDcuMTg4LjEwIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6IjM0MjdiN2FiLTg1OWQtNDAwNC04YWE2LWQzODY0YzQzZDllYSIsIm5ldCI6ImdycGMiLCJwYXRoIjoiIiwicG9ydCI6IjEwODAiLCJwcyI6IkB2MnJ5TkcwMSDYs9ix2YjYsTPwn4ep8J+HqiIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiJub25lIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI5NS4yMTYuMTQ1LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZjZjNWJjOC01MjAyLTQxZGMtOWQwOS1hZTNjNTc5MDZiNjEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0MTI3OSIsInBzIjoiMdmF2KfZh9mHIDMwMNqv24zaryAzOdiq2YjZhdin2YYg2KrYs9iq4oCM2LHYp9uM2q/Yp9mG8J+kqfCfkYhUaWNrVjJCb3RAIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
-
-vmess://eyJhZGQiOiI5NS4yMTYuMTQ1LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZjZjNWJjOC01MjAyLTQxZGMtOWQwOS1hZTNjNTc5MDZiNjEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0MTI3OSIsInBzIjoiQFNob3AxVlBOX2JvdCDYrtix24zYryDaqdin2YbZgduM2q8g2YbYp9mF2K3Yr9mI2K8g2YXYp9mH2KfZhtmHINmB2YLYtyDZvtmG2KzYp9mHINmH2LLYp9ixINiq2YjZhdmGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJndW4iLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiI5NS4yMTYuMTQ1LjIyMiIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiIyZjZjNWJjOC01MjAyLTQxZGMtOWQwOS1hZTNjNTc5MDZiNjEiLCJuZXQiOiJncnBjIiwicGF0aCI6IiIsInBvcnQiOiI0MTI3OSIsInBzIjoiQG1lbGlfcHJveHl52LPYsdmI2LHYp9uM4oCM2KjbjNi02KrYsSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiZ3VuIiwidiI6IjIifQ==
 
@@ -457,6 +459,8 @@ vmess://eyJhZGQiOiIxNzIuMjMyLjE1Mi4yNTMiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwi
 vmess://eyJhZGQiOiIxOTMuMTIyLjU4LjE1OCIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiaXJ2aWRlby5jZmQiLCJpZCI6ImU1MzdmMmY1LTJhMGMtNGY1OS05MmM5LTgzMmNhNjQzM2JmMyIsIm5ldCI6IndzIiwicGF0aCI6Ii9saW5rd3MiLCJwb3J0IjoiNDQzIiwicHMiOiLwn5CwNjFAb25lY2xpY2t2cG5rZXlzIiwic2N5IjoiYXV0byIsInNuaSI6ImlydmlkZW8uY2ZkIiwidGxzIjoidGxzIiwidHlwZSI6IiIsInYiOiIyIn0=
 
 vmess://eyJhZGQiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsInYiOiIyIiwicHMiOiJAVklQcm94eXMiLCJwb3J0Ijo0NDMsImlkIjoiNWY3MjZmZTMtZDgyZS00ZGE1LWE3MTEtOGFmMGNiYjJiNjgyIiwiYWlkIjoiMCIsIm5ldCI6IndzIiwidHlwZSI6IiIsImhvc3QiOiIxYTJkNTE0Yi0zN2NmLTQ5OWYtOGQwOC1kMDE3YTkyYWI1YmIuYXNvdWwtYXZhLnRvcCIsInBhdGgiOiJcL2F6dW1hc2UucmVuIiwidGxzIjoidGxzIn0=
+
+vmess://eyJhZGQiOiIyLjU4Ljg3LjIyMSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiIiwiaWQiOiJkYjg1ZmYwZS1jMzNmLTQwMWQtYzQxNS00YzdjY2UxMzU3MDQiLCJuZXQiOiJ3cyIsInBhdGgiOiJcLyIsInBvcnQiOiIxMjI2OSIsInBzIjoiXHUyNjljXHVmZTBmVGVsZWdyYW06QElQX0NGIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
 vmess://eyJhZGQiOiJ1cGRhdGVtb2JpbGUxNzQubmlrYXRlbC5zdG9yZSIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoidXBkYXRlbW9iaWxlMTc0Lm5pa2F0ZWwuc3RvcmUiLCJpZCI6IjFiZDBjY2M0LWE4MDMtNDBhZi05NDA2LWYxOWM2Mzk0Y2RiNyIsIm5ldCI6IndzIiwicGF0aCI6Ii8iLCJwb3J0IjoiNDQzIiwicHMiOiJAbWVsaV9wcm94eXnYs9ix2YjYsdin24zigIzYqNuM2LTYqtixIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6InRscyIsInR5cGUiOiItLS0iLCJ2IjoiMiJ9
 
