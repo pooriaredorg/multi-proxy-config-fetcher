@@ -76,21 +76,7 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub"),
             ChannelConfig("https://t.me/s/redv2ray_channel"),
-            ChannelConfig("https://t.me/s/redv2ray_channel1"),
-            ChannelConfig("https://t.me/s/redv2ray_channel2"),
-            ChannelConfig("https://t.me/s/redv2ray_channel3"),
-            ChannelConfig("https://t.me/s/redv2ray_channel4"),
-            ChannelConfig("https://t.me/s/redv2ray_channel5"),
-            ChannelConfig("https://t.me/s/redv2ray_channel6"),
-            ChannelConfig("https://t.me/s/redv2ray_channel6"),
-            ChannelConfig("https://t.me/s/redv2ray_channel7"),
-            ChannelConfig("https://t.me/s/redv2ray_channel8"),
-            ChannelConfig("https://t.me/s/redv2ray_channel9"),
-            ChannelConfig("https://t.me/s/redv2ray_channel10"),
-            ChannelConfig("https://t.me/s/redv2ray_channel11"),
-            ChannelConfig("https://t.me/s/redv2ray_channel12"),
-            ChannelConfig("https://t.me/s/redv2ray_channel13"),
-            ChannelConfig("https://t.me/s/redv2ray_channel14")
+            ChannelConfig("https://t.me/s/redv2ray_channel1")
         ]
 
         self.SOURCE_URLS = self._remove_duplicate_urls(initial_urls)
