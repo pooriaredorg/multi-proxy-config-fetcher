@@ -1,25 +1,25 @@
 {
-  "timestamp": "2025-02-18T22:10:14.274221+00:00",
+  "timestamp": "2025-02-18T22:56:33.956753+00:00",
   "channels": [
     {
-      "url": "https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
+      "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
       "enabled": true,
       "metrics": {
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.22,
+        "avg_response_time": 0.14,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.18,
-        "last_success": "2025-02-18T22:10:05.070378+00:00",
+        "overall_score": 77.3,
+        "last_success": "2025-02-18T22:56:25.061958+00:00",
         "protocol_counts": {
-          "wireguard://": 10,
+          "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 9,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 1,
           "tuic://": 0
         }
       }
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.56,
-        "last_success": "2025-02-18T22:10:07.216269+00:00",
+        "overall_score": 77.74,
+        "last_success": "2025-02-18T22:56:27.086089+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -48,24 +48,24 @@
       }
     },
     {
-      "url": "https://raw.githubusercontent.com/valid7996/Gozargah/refs/heads/main/Gozargah_Sub",
+      "url": "https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIA--REDFREE8.txt#POORIA--REDFREE8",
       "enabled": true,
       "metrics": {
         "total_configs": 36,
-        "valid_configs": 5,
-        "unique_configs": 5,
-        "avg_response_time": 0.15,
+        "valid_configs": 3,
+        "unique_configs": 3,
+        "avg_response_time": 0.08,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.24,
-        "last_success": "2025-02-18T22:10:09.370831+00:00",
+        "overall_score": 76.96,
+        "last_success": "2025-02-18T22:56:29.171407+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 5,
+          "vless://": 1,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
