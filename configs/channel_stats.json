@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-18T21:59:29.734394+00:00",
+  "timestamp": "2025-02-18T22:08:10.741671+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/4n0nymou3/wg-config-fetcher/refs/heads/main/configs/wireguard_configs.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.21,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.18,
-        "last_success": "2025-02-18T21:59:20.366569+00:00",
+        "overall_score": 77.36,
+        "last_success": "2025-02-18T22:08:01.905972+00:00",
         "protocol_counts": {
           "wireguard://": 10,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.15,
+        "avg_response_time": 0.03,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.55,
-        "last_success": "2025-02-18T21:59:22.518072+00:00",
+        "overall_score": 77.74,
+        "last_success": "2025-02-18T22:08:03.932754+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -54,11 +54,11 @@
         "total_configs": 36,
         "valid_configs": 5,
         "unique_configs": 5,
-        "avg_response_time": 0.14,
+        "avg_response_time": 0.02,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 78.26,
-        "last_success": "2025-02-18T21:59:24.659015+00:00",
+        "overall_score": 78.44,
+        "last_success": "2025-02-18T22:08:05.955676+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -94,7 +94,7 @@
       }
     },
     {
-      "url": "https://t.me/s/redv2ray_channel1",
+      "url": "https://t.me/s/redfree8",
       "enabled": false,
       "metrics": {
         "total_configs": 0,
