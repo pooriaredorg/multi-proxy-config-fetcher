@@ -75,7 +75,7 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt"),
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIA--REDFREE8.txt#POORIA--REDFREE8"),
-            ChannelConfig("https://t.me/s/redv2ray_channel"),
+            ChannelConfig("https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false"),
             ChannelConfig("https://t.me/s/redfree8")
         ]
 
