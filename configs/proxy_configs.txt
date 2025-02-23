@@ -16,8 +16,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fpooriam-aeb.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam-aeb.pages.dev&fp=randomized&type=ws&sni=pooriam-aeb.pages.dev#%F0%9F%92%A5POORIA5
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#@redfree POORIA
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam.ramen61681.workers.dev&fp=random&type=ws&sni=pooriam.ramen61681.workers.dev#%F0%9F%92%A5POORIA9
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pxpx.pages.dev&fp=random&type=ws&sni=pxpx.pages.dev#%F0%9F%92%A5POORIA1
