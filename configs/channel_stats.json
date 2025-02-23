@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-23T08:31:37.367611+00:00",
+  "timestamp": "2025-02-23T09:08:54.204112+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.13,
+        "avg_response_time": 0.24,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.31,
-        "last_success": "2025-02-23T08:31:28.470944+00:00",
+        "overall_score": 77.13,
+        "last_success": "2025-02-23T09:08:41.363243+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -31,11 +31,11 @@
         "total_configs": 36,
         "valid_configs": 4,
         "unique_configs": 4,
-        "avg_response_time": 0.07,
+        "avg_response_time": 0.1,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.67,
-        "last_success": "2025-02-23T08:31:30.540522+00:00",
+        "overall_score": 77.63,
+        "last_success": "2025-02-23T09:08:43.461796+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -71,24 +71,24 @@
       }
     },
     {
-      "url": "https://t.me/s/redv2ray_channel",
-      "enabled": false,
+      "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 196,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 3.92,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 70.53,
+        "last_success": "2025-02-23T09:08:51.565680+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 9,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
