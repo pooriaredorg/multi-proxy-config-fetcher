@@ -34,7 +34,3 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpueFMxYTdKTmxJY2JzTjhRNEVLTDV0@46.246.39.107:
 
 trojan://POORIA@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=pooriam-3bi.pages.dev&fp=randomized&type=ws&sni=pooriam-3bi.pages.dev#%F0%9F%92%A5POORIA4
 
-trojan://Pooria@www.speedtest.net:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REdw.pOoRIaM.ir#@redfree8 ➍ POORIA
-
-trojan://Pooria@www.speedtest.net:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redw.pooriam.ir&type=ws#@redfree8 ➎ POORIA
-
