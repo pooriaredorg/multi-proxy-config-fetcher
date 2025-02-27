@@ -14,7 +14,25 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam7.pages.dev&fp=randomized&type=ws&sni=pooriam7.pages.dev#%F0%9F%92%A5POORIA3
 
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FTyQmE1ozm7iTqKPV%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redp.pooriam.ir&fp=randomized&type=ws&sni=REdP.pOoRiAM.Ir#POORIARED
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FikHLEEZVaS2VS0Yi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=rEdFReE8-304.poOriam.Ir#%40redfree8++%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+P1
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA
+
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fpooriam-aeb.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam-aeb.pages.dev&fp=randomized&type=ws&sni=pooriam-aeb.pages.dev#%F0%9F%92%A5POORIA5
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#@redfree8%E2%9E%8AF
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?type=ws&host=redw.pooriam.ir&path=/JF1XisQEbWZpxEHh?ed%3D2560&security=tls&fp=randomized&sni=REdw.pOoRIaM.ir&alpn=h2,http/1.1&fragment=100-200,1-1,tlshello#POORIA
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FTyQmE1ozm7iTqKPV%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redp.pooriam.ir&fp=randomized&type=ws&sni=REdP.pOoRiAM.Ir#POORIARED%20N%20TLS
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA%20N%20TLS
+
+vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:80?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=none&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA%20N%20TLS
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:8443?path=%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam.ramen61681.workers.dev&fp=random&type=ws&sni=pooriam.ramen61681.workers.dev#%F0%9F%92%A5POORIA9
 
@@ -31,4 +49,8 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpablU4eU9ZNEF6VjNmUjNFN2lOQm00@flank4.g.edges
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiQ3o4Vmt2SG9VSGRqdlFsZUpGVjlB@flank1.g.edgeservers.org:43785/?POST%20#Server-1
 
 trojan://POORIA@www.speedtest.net:443?path=%2F%3Fed%3D2560&security=tls&alpn=h3&host=pooriam-3bi.pages.dev&fp=randomized&type=ws&sni=pooriam-3bi.pages.dev#%F0%9F%92%A5POORIA4
+
+trojan://Pooria@www.speedtest.net:443?path=%2FtrJF1XisQEbWZpxEHh%3Fed%3D2560&security=tls&alpn=h2,http/1.1&host=redw.pooriam.ir&fp=randomized&type=ws&sni=REdw.pOoRIaM.ir#➍
+
+trojan://Pooria@www.speedtest.net:80?path=%2FtrLwW5jwrnymnOdqki%3Fed%3D2560&security=none&host=redw.pooriam.ir&type=ws#➎
 
