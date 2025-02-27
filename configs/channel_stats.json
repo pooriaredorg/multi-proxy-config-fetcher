@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-27T06:16:28.145608+00:00",
+  "timestamp": "2025-02-27T07:11:25.221223+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.11,
+        "avg_response_time": 0.12,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.33,
-        "last_success": "2025-02-27T06:15:46.961603+00:00",
+        "overall_score": 77.32,
+        "last_success": "2025-02-27T07:11:10.093841+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.77,
-        "last_success": "2025-02-27T06:15:48.970203+00:00",
+        "last_success": "2025-02-27T07:11:12.102645+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -72,23 +72,23 @@
     },
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
-      "enabled": false,
+      "enabled": true,
       "metrics": {
-        "total_configs": 0,
-        "valid_configs": 0,
-        "unique_configs": 0,
-        "avg_response_time": 0,
-        "success_count": 0,
-        "fail_count": 1,
-        "overall_score": 15.0,
-        "last_success": null,
+        "total_configs": 196,
+        "valid_configs": 11,
+        "unique_configs": 11,
+        "avg_response_time": 6.49,
+        "success_count": 1,
+        "fail_count": 0,
+        "overall_score": 66.67,
+        "last_success": "2025-02-27T07:11:22.654527+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 0,
+          "vless://": 9,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 0,
+          "trojan://": 2,
           "tuic://": 0
         }
       }
