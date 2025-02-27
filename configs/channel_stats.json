@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-27T05:17:43.431689+00:00",
+  "timestamp": "2025-02-27T06:16:28.145608+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.2,
+        "avg_response_time": 0.11,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.19,
-        "last_success": "2025-02-27T05:12:01.825585+00:00",
+        "overall_score": 77.33,
+        "last_success": "2025-02-27T06:15:46.961603+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.76,
-        "last_success": "2025-02-27T05:12:03.839032+00:00",
+        "overall_score": 77.77,
+        "last_success": "2025-02-27T06:15:48.970203+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -72,23 +72,23 @@
     },
     {
       "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
-      "enabled": true,
+      "enabled": false,
       "metrics": {
-        "total_configs": 196,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 332.55,
-        "success_count": 1,
-        "fail_count": 0,
-        "overall_score": 61.4,
-        "last_success": "2025-02-27T05:17:40.681448+00:00",
+        "total_configs": 0,
+        "valid_configs": 0,
+        "unique_configs": 0,
+        "avg_response_time": 0,
+        "success_count": 0,
+        "fail_count": 1,
+        "overall_score": 15.0,
+        "last_success": null,
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 9,
+          "vless://": 0,
           "vmess://": 0,
           "ss://": 0,
-          "trojan://": 2,
+          "trojan://": 0,
           "tuic://": 0
         }
       }
