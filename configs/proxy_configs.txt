@@ -18,8 +18,6 @@ vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FTyQmE
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FYHcDeYyqiNeX28up%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=301.pooriam.ir&fp=randomized&type=ws&sni=301.poORiam.ir#%F0%9F%A5%B7POORIA
 
-vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FikHLEEZVaS2VS0Yi%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=rEdFReE8-304.poOriam.Ir#%40redfree8++%DA%A9%D8%A7%D9%86%D8%A7%D9%84+%D8%AA%D9%84%DA%AF%D8%B1%D8%A7%D9%85%DB%8C+P1
-
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2FoX7ferlJbwT9C2Wz%3Fed%3D2560&security=tls&alpn=h2%2Chttp%2F1.1&encryption=none&host=redfree8-304.pooriam.ir&fp=randomized&type=ws&sni=reDfReE8-304.POoRIaM.Ir#%F0%9F%A5%B7%F0%9F%94%A5POORIA
 
 vless://53fa8faf-ba4b-4322-9c69-a3e5b1555049@www.speedtest.net:443?path=%2Fpooriam-aeb.pages.dev%2F%3Fed%3D2560&security=tls&encryption=none&host=pooriam-aeb.pages.dev&fp=randomized&type=ws&sni=pooriam-aeb.pages.dev#%F0%9F%92%A5POORIA5

@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-02-28T05:11:41.085555+00:00",
+  "timestamp": "2025-02-28T06:15:48.185278+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.1,
+        "avg_response_time": 0.13,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.35,
-        "last_success": "2025-02-28T05:11:31.482733+00:00",
+        "overall_score": 77.3,
+        "last_success": "2025-02-28T06:15:38.505629+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -34,8 +34,8 @@
         "avg_response_time": 0.01,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.76,
-        "last_success": "2025-02-28T05:11:33.495680+00:00",
+        "overall_score": 77.77,
+        "last_success": "2025-02-28T06:15:40.514333+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -74,18 +74,18 @@
       "url": "https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false",
       "enabled": true,
       "metrics": {
-        "total_configs": 196,
-        "valid_configs": 11,
-        "unique_configs": 11,
-        "avg_response_time": 1.03,
+        "total_configs": 169,
+        "valid_configs": 10,
+        "unique_configs": 10,
+        "avg_response_time": 1.16,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.86,
-        "last_success": "2025-02-28T05:11:38.594682+00:00",
+        "overall_score": 74.73,
+        "last_success": "2025-02-28T06:15:45.736088+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
-          "vless://": 9,
+          "vless://": 8,
           "vmess://": 0,
           "ss://": 0,
           "trojan://": 2,
