@@ -1,5 +1,5 @@
 {
-  "timestamp": "2025-03-04T10:12:25.448205+00:00",
+  "timestamp": "2025-03-04T11:09:55.712839+00:00",
   "channels": [
     {
       "url": "https://raw.githubusercontent.com/pooriaredorg/POORIAREDORG.pages/refs/heads/main/POORIAREDORG.pages.txt",
@@ -8,11 +8,11 @@
         "total_configs": 100,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 0.12,
+        "avg_response_time": 0.18,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 77.32,
-        "last_success": "2025-03-04T10:12:15.566417+00:00",
+        "overall_score": 77.23,
+        "last_success": "2025-03-04T11:09:39.103105+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -35,7 +35,7 @@
         "success_count": 1,
         "fail_count": 0,
         "overall_score": 77.77,
-        "last_success": "2025-03-04T10:12:17.571583+00:00",
+        "last_success": "2025-03-04T11:09:41.107279+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -77,11 +77,11 @@
         "total_configs": 169,
         "valid_configs": 10,
         "unique_configs": 10,
-        "avg_response_time": 1.31,
+        "avg_response_time": 1.51,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 74.51,
-        "last_success": "2025-03-04T10:12:22.976125+00:00",
+        "overall_score": 74.22,
+        "last_success": "2025-03-04T11:09:53.073401+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
@@ -100,11 +100,11 @@
         "total_configs": 5,
         "valid_configs": 2,
         "unique_configs": 2,
-        "avg_response_time": 0.44,
+        "avg_response_time": 0.61,
         "success_count": 1,
         "fail_count": 0,
-        "overall_score": 84.34,
-        "last_success": "2025-03-04T10:12:25.447568+00:00",
+        "overall_score": 84.09,
+        "last_success": "2025-03-04T11:09:55.712245+00:00",
         "protocol_counts": {
           "wireguard://": 0,
           "hysteria2://": 0,
