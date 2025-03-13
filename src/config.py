@@ -76,7 +76,7 @@ class ProxyConfig:
             ChannelConfig("https://raw.githubusercontent.com/4n0nymou3/ss-config-updater/refs/heads/main/configs.txt"),
             ChannelConfig("https://raw.githubusercontent.com/pooriaredorg/POORIA--REDFREE8/refs/heads/main/POORIA--REDFREE8.txt#POORIA--REDFREE8"),
             ChannelConfig("https://yebekhe.site/api/tce/api.php?id=redv2ray_channel&base64=false"),
-            ChannelConfig("https://t.me/s/redfree8")
+            ChannelConfig("https://sanguayun.jiumaojiu.net/s/79713ef214fedd255a88b5a1a16758ca")
         ]
 
         self.SOURCE_URLS = self._remove_duplicate_urls(initial_urls)
